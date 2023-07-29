@@ -1,1 +1,8 @@
+# Ignore all files with .exe extension
 *.exe
+
+# Ignore the .git directory
+.git
+
+# Ignore the target directory (and its contents)
+/target/
